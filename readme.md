@@ -73,7 +73,7 @@ GROQ_API_KEY=your_api_key_here
 ## System Architecture Diagram 🏗️
 
 ```markdown
-![System Flowchart](src/flowchart.png?raw=true)
+![System Flowchart](https://github.com/aditya-13115/DBMS_agentic/tree/main/src/flowchart.png)
 
 ```
 

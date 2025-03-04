@@ -72,9 +72,9 @@ GROQ_API_KEY=your_api_key_here
 
 ## System Architecture Diagram 🏗️
 
-To add an image of the working system, replace `your_image_path.png` with the actual image path:
 ```markdown
-![System Flowchart](src/flowchart.png)
+![System Flowchart](src/flowchart.png?raw=true)
+
 ```
 
 ---

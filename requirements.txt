@@ -1,1 +1,6 @@
 db-sqlite3
+streamlit
+pathlib
+langchain
+langchain_core
+langchain_community

@@ -4,3 +4,4 @@ pathlib
 langchain
 langchain_core
 langchain_community
+mysql-connector-python
